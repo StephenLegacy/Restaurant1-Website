@@ -1,6 +1,6 @@
-Kwa Jose Quick Bites -  Landing Page
+**Kwa Jose Quick Bites -  Landing Page**
 
-Project Overview
+**Project Overview**
 
 Kwa Jose Quick Bites is a responsive landing page for a restaurant that showcases its menu, about section, and contact details. The page is designed with a modern aesthetic, incorporating Glassmorphism elements and a purple glass theme to enhance the user experience.
 
